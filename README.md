@@ -1,2 +1,4 @@
-# my-fun-repository
-My Fun Repository
+# my-boring-repository
+My Boring Repository
+
+tis borin'
